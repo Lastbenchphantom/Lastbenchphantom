@@ -62,7 +62,7 @@ Personal repo documenting my Java learning journey.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lastbenchphantom-black?logo=github)](https://github.com/Lastbenchphantom)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zakaria_Revan-blue?logo=linkedin)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:zakariazak13913@gmail.com)
 
 ---
 
