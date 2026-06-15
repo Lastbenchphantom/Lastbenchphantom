@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Zakaria+%F0%9F%91%8B;Frontend+%26+Full+Stack+Developer;CS+Student+%40+IIUC;Building+real+things+with+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Zakaria+%F0%9F%91%8B;CS+Student+%40+IIUC;Building+toward+Full+Stack)](https://git.io/typing-svg)
 
 </div>
 
@@ -9,48 +8,45 @@
 
 ### About Me
 
-I'm a **Computer Science & Engineering** student at **International Islamic University Chittagong**, Bangladesh — focused on building clean, scalable web applications. I'm on a deliberate path toward professional software engineering and freelancing, working through the full JavaScript ecosystem from the ground up.
+CS & Engineering student at **International Islamic University Chittagong**, Bangladesh. Building a deliberate path through the JavaScript ecosystem — foundation first, then production-quality projects.
 
-- Currently sharpening: **React**, **Node.js**, **REST APIs**, **Supabase**
-- Learning in public — every project is a step forward
-- Open to freelance work and junior collaboration opportunities
-- Based in **Chittagong, Bangladesh**
+- **Currently learning:** JavaScript (core mechanics, functions, async) → React → Node.js
+- **Actively building:** Frontend UI projects; moving into full-stack this year
+- **Background:** HTML, CSS, 8086 Assembly, basic Java, academic MySQL
+- **Goal:** Freelance-ready full-stack developer by end of 2026
+- Open to junior collaboration and feedback on work-in-progress projects
 
 ---
 
 ### Tech Stack
 
-#### Frontend
+#### Comfortable With
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-#### Backend & Database
+#### Currently Learning
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-#### CS Coursework
+#### Academic Exposure
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Assembly](https://img.shields.io/badge/8086_Assembly-grey?style=flat-square&logo=assemblyscript&logoColor=white)
-![Networking](https://img.shields.io/badge/Data_Communications_%26_Networking-0078D4?style=flat-square&logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Data_Comms_%26_Networking-0078D4?style=flat-square&logo=cisco&logoColor=white)
 
 ---
 
 ### GitHub Stats
 
 <div align="center">
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lastbenchphantom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lastbenchphantom&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
 </div>
 
 <div align="center">
@@ -61,11 +57,9 @@ I'm a **Computer Science & Engineering** student at **International Islamic Univ
 
 ---
 
-### Currently Working On
+### Featured Projects
 
-- Building full-stack projects with **React + Node.js + Supabase**
-- Deepening understanding of **system design fundamentals**
-- Assembling a freelance portfolio around **frontend UI development**
+> Projects in progress — this section will be populated as builds ship.
 
 ---
 
